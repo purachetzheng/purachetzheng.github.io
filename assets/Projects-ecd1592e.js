@@ -1,0 +1,1 @@
+import{_ as a,r as o,o as t,d as r,w as c,a as s}from"./index-44e1f235.js";const n={},p=s("div",{class:"container"},"Project",-1);function _(d,l){const e=o("app-page-wrapper");return t(),r(e,null,{default:c(()=>[p]),_:1})}const i=a(n,[["render",_]]);export{i as default};
